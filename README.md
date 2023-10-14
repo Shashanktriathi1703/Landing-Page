@@ -17,7 +17,7 @@ Our gallery includes a wide variety of pictures, including landscapes, portraits
 
 ## Live Demo
 
-link:```https://shashanktriathi1703.github.io/Landing-Page/```
+link:[https://shashanktriathi1703.github.io/Landing-Page/]
 
 
 ## Contact Us
