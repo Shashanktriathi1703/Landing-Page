@@ -4,7 +4,8 @@ The content on a landing page is typically focused on a single product or servic
 They can be created using a variety of tools and technologies, including HTML, CSS, and JavaScript.
 
 ## Welcome to our picture gallery landing page! Here you will find a collection of different pictures that showcase our work and services
-![Phenomenal](https://github.com/Shashanktriathi1703/Landing_page_CODSOFT_Level1-Task1/assets/105815482/3932877f-9ce9-45f0-89ab-a5f08cd34974)
+![Phenomenal](https://github.com/Shashanktriathi1703/Landing-Page/assets/105815482/3e22cca6-1f24-4d09-a3f7-95baa9f40b4c)
+
 
 
 
@@ -12,8 +13,9 @@ They can be created using a variety of tools and technologies, including HTML, C
 Our gallery includes a wide variety of pictures, including landscapes, portraits, and still life. We update our gallery regularly with new pictures, so be sure to check back often!
 
 ## Demo
+![Phenomenal](https://github.com/Shashanktriathi1703/Landing-Page/assets/105815482/8bafcdc3-f53f-4f3b-9ab2-4b99fa064cad)
 
-![Phenomenal](https://github.com/Shashanktriathi1703/Landing_page_CODSOFT_Level1-Task1/assets/105815482/7454dc59-31ff-40ce-8f4b-ff60eed5fc6d)
+
 
 ## Live Demo
 
@@ -21,4 +23,4 @@ link:[https://shashanktriathi1703.github.io/Landing-Page/]
 
 
 ## Contact Us
-If you have any questions or would like to work with us, please feel free to contact us at "shashanktripathi21bca183@gmail.com". Thank you for visiting our picture gallery landing page!
+If you have any questions or would like to work with us, please feel free to contact us at ```shashanktripathi21bca183@gmail.com```. Thank you for visiting our picture gallery landing page!
